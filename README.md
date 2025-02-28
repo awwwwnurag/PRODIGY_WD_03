@@ -13,10 +13,10 @@
 
 <p> Languages Used: HTML, CSS, & JavaScript </p>
 <h2>Preview: </h2>
-<p>This is preview of the project. You can visit live preview on <a href="https://https://awwwwnurag.github.io/PRODIGY_WD_03/" target="_blank"> Here. </a></p>
+<p>This is preview of the project. You can visit live preview on <a href="https://awwwwnurag.github.io/PRODIGY_WD_03/" target="_blank"> Here. </a></p>
 
 
 
 
-https://github.com/awwwwnurag/PRODIGY_WD_03/issues/1#issue-2886217633
+https://github.com/user-attachments/assets/f8cf4c98-26af-44c0-9883-da398ca5e30b
 
